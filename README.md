@@ -25,6 +25,9 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 -   ⚡ Fun fact: I love photography
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaltaphil&layout=compact)](https://github.com/yaltaphil/github-readme-stats)
+
 <br />
 
 ## Languages and Tools:
