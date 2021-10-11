@@ -52,7 +52,7 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 ## Examples of Work
 
-[KinoCMS][https:/kinocms.yaltaphil.ru]
+[KinoCMS][https://kinocms.yaltaphil.ru]
 
 [Porten][https://yaltaphil.github.io/porten]
 
