@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yaltaphil/Yaltaphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,8 +53,11 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 ## Examples of Work
 
 [KinoCMS][https:/kinocms.yaltaphil.ru]
+
 [Porten][https://yaltaphil.github.io/porten]
+
 [BigTheater][https://yaltaphil.github.io/big-theater]
+
 
 [website]: https://yaltaphil.ru
 
