@@ -26,7 +26,7 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaltaphil&layout=compact)](https://github.com/yaltaphil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaltaphil&layout=compact)](https://github.com/yaltaphil)
 
 <br />
 
