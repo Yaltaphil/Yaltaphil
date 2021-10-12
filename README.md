@@ -1,6 +1,6 @@
 # Hi there, I'm Phil 👋
 
-I do frontend development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as work in Javascript.
+and I do frontend development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as vanilla Javascript.
 
 <br />
 
@@ -35,7 +35,7 @@ I do frontend development. I really enjoy learning languages and frameworks like
   
 [<img align="left" alt="big-theather" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
 
-[<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru/login)
+[<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru)
 
 [<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
 
