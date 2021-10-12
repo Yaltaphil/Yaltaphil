@@ -1,6 +1,6 @@
 # Hi there, I'm Phil - aka [Yaltaphil][website] 👋
 
-I'm Philip from Crimea, and I do content on Design and Development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as work in Javascript.
+and I do frontend development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as work in Javascript.
 
 <br />
 
@@ -9,11 +9,9 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 -   🥅 2021 Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I love photography
 
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaltaphil&layout=compact)](https://github.com/yaltaphil)
 
-<br />
 
 ## Languages and Tools:
 
