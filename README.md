@@ -55,8 +55,8 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 ## Examples of Work
 
-[<img align="left" alt="GitHub" width="320px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.jpg" />](https://yaltaphil.github.io/porten)
-[<img align="left" alt="GitHub" width="320px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
+[<img align="left" alt="GitHub" width="240px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
+[<img align="left" alt="GitHub" width="240px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
 
 
 [website]: https://yaltaphil.ru
