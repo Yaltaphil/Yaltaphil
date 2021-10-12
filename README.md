@@ -1,6 +1,6 @@
-# Hi there, I'm Phil - aka [Yaltaphil][website] 👋
+# Hi there, I'm Phil 👋
 
-and I do frontend development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as work in Javascript.
+I do frontend development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as work in Javascript.
 
 <br />
 
@@ -27,7 +27,7 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 <br />
 <br />
 
-## Portfolio
+## Portfolio (some examples)
 
 [<img align="left" alt="porten" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
   
