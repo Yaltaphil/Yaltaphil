@@ -17,15 +17,14 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 ## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubus[]ercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/visual-studio-code.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/github.svg" />
+<img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-html-filetype-48.png" />
+<img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-sass-48.png" />
+<img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-javascript-48.png" />
+<img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-typescript-48.png" />
+<img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/vue-js.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/nuxt-js.svg" />
 
 <br />
 <br />
@@ -36,6 +35,8 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 -  💻 Nuxt
 -  💻 HTML, CSS, JS
 
+<br />
+<br />
 
 ## Portfolio
 
@@ -47,6 +48,7 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 [<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
 
+<br />
 
 [website]: https://yaltaphil.ru
 
