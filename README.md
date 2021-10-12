@@ -55,10 +55,8 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 ## Examples of Work
 
-Adaptive landing page
 [<img align="left" alt="GitHub" width="240px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.jpg" />](https://yaltaphil.github.io/porten)
-
-Adaptive landing page
+[<img align="left" alt="GitHub" width="240px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.jpg" />](https://yaltaphil.github.io/big-theater)
 [<img align="left" alt="GitHub" width="240px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.jpg" />](https://yaltaphil.github.io/big-theater)
 
 
