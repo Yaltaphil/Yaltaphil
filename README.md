@@ -18,11 +18,13 @@ I do frontend development. I really enjoy learning languages and frameworks like
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/visual-studio-code.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/github.svg" />
 <img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-html-filetype-48.png" />
+<img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/icons8-css3.svg" />
 <img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-sass-48.png" />
 <img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-javascript-48.png" />
 <img align="left" alt="TS" width="48px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/icons8-typescript-48.png" />
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/vue-js.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/nuxt-js.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/icons8-nodejs.svg" />
 
 <br />
 <br />
