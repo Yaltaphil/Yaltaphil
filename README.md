@@ -59,6 +59,8 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
   
 [<img align="left" alt="big-theather" width="240px" height="180px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
 
+[<img align="left" alt="kino-cms" width="240px" height="180px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru/login)
+
 [<img align="left" alt="kino-cms" width="240px" height="180px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
 
 
