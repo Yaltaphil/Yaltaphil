@@ -39,15 +39,15 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 ## Portfolio
 
-[<img alt="porten" width="240px" height="180px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
+[<img align="left" alt="porten" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
   
-[<img alt="big-theather" width="240px" height="180px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
+[<img align="left" alt="big-theather" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
 
 <br />
 
-[<img alt="kino-cms" width="240px" height="180px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru/login)
+[<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru/login)
 
-[<img alt="kino-cms" width="240px" height="180px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
+[<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
 
 
 [website]: https://yaltaphil.ru
