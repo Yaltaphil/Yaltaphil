@@ -1,26 +1,11 @@
-<!--
-**Yaltaphil/Yaltaphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Phil - aka [Yaltaphil][website] 👋
 
 I'm Philip from Crimea, and I do content on Design and Development. I really enjoy learning languages and frameworks like Vue and Nuxt, as well as work in Javascript.
-<br />
+
 <br />
 
 -   🌱 I’m currently learning Nuxt 🤣
--   👯 I’m looking to collaborate with other
+-   👯 I’m looking to collaborate with other developers
 -   🥅 2021 Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I love photography
 
@@ -50,14 +35,15 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 -  💻 Vue
 -  💻 Nuxt
 -  💻 HTML, CSS, JS
--  💻 HTML, CSS, JS
--  💻 HTML, CSS, JS
 
-## Examples of Work
+
+## Portfolio
 
 [<img align="left" alt="porten" width="240px" height="180px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
   
 [<img align="left" alt="big-theather" width="240px" height="180px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
+
+<br />
 
 [<img align="left" alt="kino-cms" width="240px" height="180px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru/login)
 
