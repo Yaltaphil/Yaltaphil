@@ -47,15 +47,15 @@ I'm Philip from Crimea, and I do content on Design and Development. I really enj
 
 ## My Skills and Experience
 
--   Vue
--   Nuxt
--   💻 HTML, CSS, JS
--   💻 HTML, CSS, JS
--   💻 HTML, CSS, JS
+-  💻 Vue
+-  💻 Nuxt
+-  💻 HTML, CSS, JS
+-  💻 HTML, CSS, JS
+-  💻 HTML, CSS, JS
 
 ## Examples of Work
 
-[KinoCMS](https://kinocms.yaltaphil.ru)
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.jpg" />](https://kinocms.yaltaphil.ru)
 
 [Porten](https://yaltaphil.github.io/porten)
 
