@@ -26,8 +26,10 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/nuxt-js.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/icons8-nodejs.svg" />
 
-<br />
-<br />
+<br>
+<br>
+<br>
+
 
 ## Portfolio (some examples)
 
