@@ -47,7 +47,15 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 
 
 
-<br>
+<br />
+<br /><br /><br /><br />
+
+---
+  
+
+## Contact me
+
+You can contact me by email [yaltaphil@gmail.com](mailto:yaltaphil@gmail.com) or by my telegram account [https://t.me/Yaltaphil](https://t.me/Yaltaphil)
 
 [website]: https://yaltaphil.ru
 
