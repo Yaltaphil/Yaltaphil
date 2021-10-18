@@ -31,13 +31,21 @@ and I do frontend development. I really enjoy learning languages and frameworks 
   
 ## Portfolio (some examples)
 
+[<img align="left" alt="porten" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kpk.jpg" />](https://kpk-status.yaltaphil.ru)
+
+
 [<img align="left" alt="porten" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
+  
   
 [<img align="left" alt="big-theather" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
 
+
 [<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-admin.gif" />](https://kinocms.yaltaphil.ru)
 
+
 [<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
+
+
 
 <br>
 
