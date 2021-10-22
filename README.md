@@ -45,6 +45,8 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 
 [<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
 
+[<img align="left" alt="doit" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/doit.gif" />](https://doit.yaltaphil.ru)
+
 
 
 <br />
@@ -55,7 +57,7 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 
 ## Contact me
 
-You can contact me by email [yaltaphil@gmail.com](mailto:yaltaphil@gmail.com) or by my telegram account [https://t.me/Yaltaphil](https://t.me/Yaltaphil)
+Please, contact me by [email](mailto:yaltaphil@gmail.com) or my telegram [https://t.me/Yaltaphil](https://t.me/Yaltaphil)
 
 [website]: https://yaltaphil.ru
 
