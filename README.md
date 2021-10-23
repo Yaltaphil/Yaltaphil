@@ -13,7 +13,7 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaltaphil&layout=compact)](https://github.com/yaltaphil)
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/visual-studio-code.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/github.svg" />
@@ -26,10 +26,17 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/nuxt-js.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/icons8-nodejs.svg" />
 
-<br>
-<br>  
+<br />
+<br />
+
+
+---
+
+Please, contact me by [email](mailto:yaltaphil@gmail.com) or my telegram [https://t.me/Yaltaphil](https://t.me/Yaltaphil)
+
+<br />  
   
-## Portfolio (some examples)
+### Portfolio (some examples)
 
 [<img align="left" alt="porten" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kpk.jpg" />](https://kpk-status.yaltaphil.ru)
 
@@ -46,18 +53,5 @@ and I do frontend development. I really enjoy learning languages and frameworks 
 [<img align="left" alt="kino-cms" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kinocms-site.gif" />](https://kinocms.yaltaphil.ru)
 
 [<img align="left" alt="doit" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/doit.gif" />](https://doit.yaltaphil.ru)
-
-
-
-<br />
-<br /><br /><br /><br />
-
----
   
-
-## Contact me
-
-Please, contact me by [email](mailto:yaltaphil@gmail.com) or my telegram [https://t.me/Yaltaphil](https://t.me/Yaltaphil)
-
-[website]: https://yaltaphil.ru
-
+<br />
